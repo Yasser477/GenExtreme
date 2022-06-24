@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "gamingfont" ;
+    src: url(assets/StreamerSlantDemo-WyrX4.otf);
+}
+
+@font-face {
+    font-family: "leagueFont" ;
+    src: url(assets/League-Inline.otf);
+}
+
+@font-face {
+    font-family: "lol" ;
+    src: url(assets/League-ThinInline.otf);
+}
+
+@font-face {
+    font-family: "ubuntu" ;
+    src: url(assets/Ubuntu-Regular.ttf);
+}
+
+.Fspans{
+    font-family: "leagueFont";
+    font-size: 15px;
+
+}
+
+
+

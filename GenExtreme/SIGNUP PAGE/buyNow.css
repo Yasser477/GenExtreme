@@ -1,0 +1,153 @@
+@font-face {
+    font-family: "gamingfont" ;
+    src: url(assets/StreamerSlantDemo-WyrX4.otf);
+}
+
+@font-face {
+    font-family: "leagueFont" ;
+    src: url(assets/League-Inline.otf);
+}
+
+@font-face {
+    font-family: "lol" ;
+    src: url(assets/League-ThinInline.otf);
+}
+
+@font-face {
+    font-family:"Ubuntu" ;
+    src: url(assets/Ubuntu-Regular.ttf);
+}
+
+.fspans{
+    
+    font-family: "leagueFont" ;
+    color: white;
+    font-size: 13px;   
+}
+
+#form{
+
+    width: 500px;
+    margin-top: 200px;
+   margin-left: 70px;
+
+    height: 450px;
+    display: flex;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 3px solid #393333;
+
+}
+#frm{
+    display: block;
+}
+
+.inputs{
+    width: 300px;
+    height: 50px;
+    display: block;
+    margin-top: 30px;
+    margin-left: 100px;
+    border: 0PX;
+    border-radius: 20px;
+    
+}
+
+
+#seconddiv{
+    width: 700px;
+    height: 450px;
+    background-color: white ;
+    position:relative;
+    top: -450px;
+    left: 700px;
+    border: 3px solid;
+}
+
+#name{
+    box-sizing: border-box;
+    position: absolute;
+    width: 198px;
+    height: 50px;
+    left: 0px;
+    top: 371px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+
+#secondname{
+    box-sizing: border-box;
+    position: absolute;
+    width: 198px;
+    height: 50px;
+    left: 225px;
+    top: 371px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+
+#email{
+    box-sizing: border-box;
+    position: absolute;
+    width: 425px;
+    height: 51px;
+    left: 0px;
+    top: 450px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+
+#adress{
+    box-sizing: border-box;
+    position: absolute;
+    width: 425px;
+    height: 51px;
+    left: 0px;
+    top: 530px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+
+#fill{
+    
+position: absolute;
+width: 326px;
+height: 24px;
+left: 200px;
+top: 333px;
+font-family: "lol";
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+#dlv{
+    position: absolute;
+    left: 640px;
+    top: 0px;
+    font-size: 30px;
+    font-family: "lol";
+}
+
+#amana{
+    width: 200px;
+     height:50px;
+    position: absolute;
+    top: 1050px;
+    left: 350px;
+}
+
+#bb{
+    width: 200px;
+    height:50px;
+   position: absolute;
+   top: 1050px;
+   left: 850px;
+}

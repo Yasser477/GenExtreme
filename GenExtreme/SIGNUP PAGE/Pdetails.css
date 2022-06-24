@@ -1,0 +1,127 @@
+@font-face {
+    font-family: "gamingfont" ;
+    src: url(assets/StreamerSlantDemo-WyrX4.otf);
+}
+
+@font-face {
+    font-family: "leagueFont" ;
+    src: url(assets/League-Inline.otf);
+}
+
+@font-face {
+    font-family: "lol" ;
+    src: url(assets/League-ThinInline.otf);
+
+}
+@font-face {
+    font-family: "nunito" ;
+    src: url(assets/nunito.bold-italic.ttf);
+}
+
+@font-face {
+    font-family: 'ubuntu' ;
+    src: url(assets/Ubuntu-Regular.ttf);
+}
+
+.Fspans{
+    font-family: "leagueFont";
+    font-size: 13px;
+
+}
+
+body{
+    position: relative;
+   
+}
+
+#divimage{
+
+    
+}
+
+#image{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    
+    
+}
+
+#prixdiv{
+
+    width: 500px;
+    position: absolute;
+    left: 650px;
+    top: 300px;
+    font-family: "leagueFont"    ;   
+    font-size: 18px;
+
+}
+
+
+#paradiv{   
+    width: 500px;
+    position: absolute;
+    left: 650px;
+    top: 350px;
+    font-family: "Ubuntu"    ;
+    
+    font-size: 18px;
+}
+
+#title{
+    font-family: "leagueFont";
+    position: absolute;
+    left: 650px;
+    top: 200px;
+}
+
+
+
+#lower{
+    margin-top: 100px;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    
+}
+
+#cardida{
+    width: 350px;
+    height: 400px ;
+    
+  
+}
+
+#imaged{
+    width: 350px;
+    height: 350px;
+}
+
+#diva{
+    display: flex;
+    justify-content: space-between;
+}
+
+#nameee{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:15px;
+    text-align: center;
+
+}
+
+#priceee{
+    margin-left:150px;
+}
+
+#bs{
+    position: absolute;
+    left:600px;
+    bottom: 615px;
+}
+
+
+
+

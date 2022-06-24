@@ -1,0 +1,116 @@
+
+
+.fspan{
+    font-family : -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+nav{
+    height: 40px;
+}
+
+#main{
+    
+   
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#fromDiv{
+    
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    background-color: #ce2525;
+    position: relative;
+    left: 460px;
+    opacity: 0.9 ;
+    top: 100px;
+    
+
+}
+
+.inputs{
+    width: 350px;
+    height : 50px;
+    border: 0px;
+    border-radius: 30px;
+    margin-top: 120px;
+}
+
+.inputs:focus{
+
+    outline: 0px;
+}
+
+#inpE{
+
+    position :absolute;
+    top: 80px;
+    background-color: white;
+    left: 70px;
+   
+
+}
+
+
+
+ #inpP{
+    position :absolute;
+    top: 180px;  
+    left: 70px;
+    background-color: white;
+    
+ }
+
+#btn{
+
+    position :absolute;
+    top: 380px;
+    left: 208px;
+    width: 90px;
+    background-color: white;
+    height: 30px;
+    border: 0px;
+    border-radius: 30px;
+}
+
+
+#signUp{
+
+    font-family: Roboto;
+    position:absolute;
+    top : 430px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left: 210px;
+    font-size: smaller;
+    text-decoration-line: none;
+}
+
+#shop{
+
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 100px;
+
+
+}
+
+
+
+
+
+
+
+
+.bg-custom-1 {
+    background-color: #85144b;
+  }
+  
+  .bg-custom-2 {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  }

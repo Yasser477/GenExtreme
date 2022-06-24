@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "gamingfont" ;
+    src: url(assets/StreamerSlantDemo-WyrX4.otf);
+}
+
+@font-face {
+    font-family: "leagueFont" ;
+    src: url(assets/League-Inline.otf);
+}
+
+@font-face {
+    font-family: "lol" ;
+    src: url(assets/League-ThinInline.otf);
+}
+
+
+
+.Fspans{
+    font-family: "leagueFont";
+    font-size: 13px;
+
+}
+
+.card-texxt{
+    font-family: "lol";
+}
+.card-title{
+
+    font-family: "lol";
+   
+}
+#product{
+    width: 300px;
+    height: 400px;
+}
+ .imagep{
+
+    width: 250px;
+    height: 250px ;
+ }
+
+#card{
+    display: flex;
+    justify-content: space-around !important;
+    text-align: center;
+
+
+} 
+
+
